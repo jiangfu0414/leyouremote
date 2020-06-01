@@ -1,0 +1,27 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: upload-service
+  servlet:
+    multipart:
+      max-file-size: 5MB
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    ip-address: 127.0.0.1
+    prefer-ip-address: false
+    lease-expiration-duration-in-seconds: 15
+    lease-renewal-interval-in-seconds: 5
+
+ly:
+  oss:
+    accessKeyId:  LTAI4GANztgRLv7ZL7fiGR2n
+    accessKeySecret: u7guPz8bm9d9vzNG23WvyLPHd9TcEN
+    host: http://jiang88-bucket.oss-cn-shanghai.aliyuncs.com # 访问oss的域名，很重要bucket + endpoint
+    endpoint: oss-cn-shanghai.aliyuncs.com # 你的服务的端点，不一定跟我一样
+    dir: "" # 保存到bucket的某个子目录
+    expireTime: 20 # 过期时间，单位是S
+    maxFileSize: 5242880 #文件大小限制，这里是5M

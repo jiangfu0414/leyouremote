@@ -1,0 +1,31 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/heima
+    username: root
+    password: root
+
+  jackson:
+    default-property-inclusion: non_null
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    prefer-ip-address: false
+    ip-address: 127.0.0.1
+    lease-renewal-interval-in-seconds: 5 #修改心跳为5s
+    lease-expiration-duration-in-seconds: 15 #修改过期时间
+
+logging:
+  level:
+    com.leyou: debug
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: false
+  mapper-locations: mappers/**/*.xml
+  type-aliases-package: com.leyou.item.entity

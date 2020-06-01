@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="538569fd-b506-4bd6-92a6-da938644e367" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="com.leyou" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.2.3" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.2.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bY7aycQWd5jQdjNquHdAjlopPG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.leyou.item.mapper" />
+      <recent name="com.leyou.item.service" />
+      <recent name="com.leyou.Upload.Service" />
+      <recent name="com.leyou.UploadService" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86137\Desktop\leyou\ly-common\src\main\java\com\leyou\common\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LyRegistry">
+    <configuration name="LyGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LyRegistry" />
+        <item itemvalue="Spring Boot.LyItemApplication" />
+        <item itemvalue="Spring Boot.LyUploadApplication" />
+        <item itemvalue="Spring Boot.LyGateway" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538569fd-b506-4bd6-92a6-da938644e367" name="Default Changelist" comment="" />
+      <created>1588797240238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588797240238</updated>
+      <workItem from="1588797241452" duration="13641000" />
+      <workItem from="1588878004417" duration="31241000" />
+      <workItem from="1590118732293" duration="7877000" />
+      <workItem from="1590645375130" duration="43134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="228" key="#Inspections" timestamp="1588892585404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="228" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588892585404" />
+    <state width="1877" height="705" key="GridCell.Tab.0.bottom" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.0.center" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.0.left" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.0.right" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.1.bottom" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.1.center" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.1.left" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.1.right" timestamp="1590989048578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048578" />
+    <state width="1877" height="705" key="GridCell.Tab.2.bottom" timestamp="1590989048579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048579" />
+    <state width="1877" height="705" key="GridCell.Tab.2.center" timestamp="1590989048579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048579" />
+    <state width="1877" height="705" key="GridCell.Tab.2.left" timestamp="1590989048579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048579" />
+    <state width="1877" height="705" key="GridCell.Tab.2.right" timestamp="1590989048579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="705" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590989048579" />
+    <state x="724" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1590645515760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590645515760" />
+    <state x="1087" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590911370174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1087" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590911370174" />
+    <state x="1355" y="284" key="extract.method.dialog" timestamp="1590988680989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1355" y="284" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590988680989" />
+    <state x="669" y="207" width="1251" height="626" key="new project wizard" timestamp="1589406476767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="207" width="1251" height="626" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589406476767" />
+    <state x="1108" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1588972521643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1108" y="272" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588972521643" />
+  </component>
+</project>
